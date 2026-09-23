@@ -1,0 +1,37 @@
+settings:
+  username: "liyan-nk"
+
+  commit_msg: "⚡ Update Workshop activity"
+
+  max_lines: 5
+
+  readme_file: "./README.md"
+
+  disabled_events:
+    - "comments"
+
+  date:
+    timezone: "GMT+05:30"
+
+  text: "Last updated: {DATE}"
+
+  format: "dd mmm yyyy, h:MM:ss TT"
+
+  commit_name: "readme-bot"
+
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+
+  line_prefix: "→ "
+
+  messages:
+    comments: "💬 Commented on {ID} in {REPO}"
+    push: "⚡ Pushed {AMOUNT} commit(s) to {REPO}"
+    issue_opened: "Opened issue {ID} in {REPO}"
+    issue_closed: "Closed issue {ID} in {REPO}"
+    pr_opened: "Opened PR {ID} in {REPO}"
+    pr_closed: "Closed PR {ID} in {REPO}"
+    pr_merged: "Merged PR {ID} in {REPO}"
+    create_repo: "Created repository {REPO}"
+    fork_repo: "Forked {FORK} from {REPO}"
+    new_release: "Released {ID} in {REPO}"
+    new_star: "Starred {REPO}"
