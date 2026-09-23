@@ -1,169 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1800&pause=700&color=E5B83D&center=true&vCenter=true&repeat=true&width=700&height=25&lines=GOTHAM+CITY+NETWORK+%2F%2F+SECURE+CONNECTION;WAYNE+ENTERPRISES+%2F%2F+RESEARCH+%26+DEVELOPMENT;ENCRYPTION+ESTABLISHED+%2F%2F+OPERATOR+LNK-01" />
+<a href="https://github.com/liyan-nk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Engineer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1200&color=F5F5F5&center=true&vCenter=true&repeat=true&width=800&height=65&lines=LIYAN+NECHIKADEN;OPERATOR+%3A%3A+LNK-01" />
+**Full-Stack Engineer · Kerala, India**
 
-### `THE BATCOMPUTER // DEVELOPER DIVISION`
-
-**Full-Stack Engineer · Systems Builder · Kerala, India**
-
-Building things that should exist.
-Breaking things that shouldn't.
-Shipping somewhere in between.
+I turn ideas into software. Sometimes the idea changes halfway through.
+The code still ships.
 
 <br>
 
-<img src="https://img.shields.io/badge/IDENTITY-LNK--01-E5B83D?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/LOCATION-GOTHAM%20%2F%20KERALA-171717?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/STATUS-IN%20THE%20LAB-E5B83D?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-E5B83D?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/BASED_IN-KERALA%2C%20INDIA-222222?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-222222?style=flat-square&labelColor=0A0A0A" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake.svg" width="100%" alt="Live GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Dark mode GitHub contribution snake" />
 
 <br>
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-[ SYSTEMS ](https://github.com/liyan-nk?tab=repositories) · [ DEPLOYMENTS ](https://github.com/liyan-nk?tab=repositories) · [ TRANSMISSION ](https://linkedin.com/in/liyan-nechikaden)
+[GitHub](https://github.com/liyan-nk) · [LinkedIn](https://linkedin.com/in/liyan-nechikaden) · [Instagram](https://instagram.com/liyan_nk_)
 
 </div>
 
 ---
 
-## `01 // OPERATOR DOSSIER`
+## A Little About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  WAYNE ENTERPRISES // PERSONNEL DATABASE                    │
-│  ACCESS LEVEL: DEVELOPER                                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  OPERATOR     : LIYAN NECHIKADEN                             │
-│  CALLSIGN     : LNK                                          │
-│  DIVISION     : FULL-STACK ENGINEERING                       │
-│  BASE         : KERALA, INDIA                                │
-│  SPECIALTY    : TURNING IDEAS INTO WORKING SYSTEMS           │
-│                                                             │
-│  CURRENT OBJECTIVE:                                          │
-│  Build. Ship. Learn. Repeat.                                 │
-│                                                             │
-│  "A shipper confused daily on what to ship.                 │
-│   A builder confused daily on what to build."                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm a developer, engineering student, and enthusiastic builder who enjoys taking ideas from a blank screen to something people can actually use.
 
-I'm a developer who enjoys building products, exploring system architecture, and turning rough ideas into functional software.
+I work across the stack, experiment with new technologies, and occasionally spend an unreasonable amount of time fixing a 2-pixel alignment issue.
 
-From full-stack applications to experimental desktop environments, I'm interested in the entire process — the architecture, the interface, the backend, and the moment it finally works.
+Currently interested in product engineering, thoughtful UI/UX, and building software that solves real problems.
 
-**I don't just want to write code. I want to ship systems people actually use.**
+**Less talking about the build. More building.**
 
 ---
 
-## `02 // GOTHAM SURVEILLANCE`
-
-<div align="center">
-
-### LIVE CONTRIBUTION MATRIX
-
-<img src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity" />
-
-<sub>ACTIVITY STREAM // GENERATED FROM GITHUB CONTRIBUTION DATA</sub>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=liyan-nk&show_icons=true&hide_border=true&bg_color=080808&title_color=E5B83D&text_color=C5C5C5&icon_color=E5B83D&ring_color=E5B83D&include_all_commits=true" width="80%" alt="GitHub statistics" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&hide_border=true&background=080808&stroke=252525&ring=E5B83D&fire=E5B83D&currStreakNum=FFFFFF&sideNums=C5C5C5&currStreakLabel=E5B83D&sideLabels=888888&dates=666666" width="80%" alt="GitHub contribution streak" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyan-nk&layout=compact&hide_border=true&bg_color=080808&title_color=E5B83D&text_color=C5C5C5" width="60%" alt="Most used programming languages" />
-
-</div>
-
----
-
-## `03 // ACTIVE DEPLOYMENTS`
-
-> CLASSIFIED PROJECT INDEX // PUBLIC REPOSITORIES
+## Things I've Been Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ CAMPUS-ECHO
+### Campus Echo
 
-`CAMPUS INTELLIGENCE SYSTEM`
-
-Anonymous student-administration dialogue and feedback platform.
-
-A system designed to bridge the gap between students and campus administration.
-
-**STACK**
+A campus feedback platform designed to bridge students and administration through anonymous dialogue.
 
 `Next.js` `TypeScript` `PostgreSQL`
 
-[ ACCESS REPOSITORY ↗](https://github.com/liyan-nk/Campus-Echo)
+[View Repository →](https://github.com/liyan-nk/Campus-Echo)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ SKILL-FORGE
+### Skill Forge
 
-`PERSONAL DEVELOPMENT ENGINE`
-
-A goal velocity tracker built around habits, streaks, and consistent execution.
-
-Track progress. Build momentum. Stay accountable.
-
-**STACK**
+A goal and habit tracking application focused on consistency, progress, and building better routines.
 
 `React` `TypeScript` `Tailwind CSS`
 
-[ ACCESS REPOSITORY ↗](https://github.com/liyan-nk/skill-forge)
+[View Repository →](https://github.com/liyan-nk/skill-forge)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ◈ INK-OS
+### Ink-OS
 
-`EXPERIMENTAL SYSTEMS LAB`
-
-An experimental browser-based desktop shell and runtime interface.
-
-Exploring the boundaries between web applications and desktop experiences.
-
-**STACK**
+An experimental browser-based desktop environment exploring interactive interfaces and web-based systems.
 
 `TypeScript` `Canvas` `Web APIs`
 
-[ ACCESS REPOSITORY ↗](https://github.com/liyan-nk/Ink-OS)
+[View Repository →](https://github.com/liyan-nk/Ink-OS)
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ LIBRARY-SYSTEM
+### Library System
 
-`RESOURCE MANAGEMENT`
-
-A role-based library management system for cataloging, indexing, and resource management.
-
-**STACK**
+A role-based library management application for organizing books, managing resources, and handling library operations.
 
 `Python` `Flask` `HTML/CSS`
 
-[ ACCESS REPOSITORY ↗](https://github.com/liyan-nk/Library-System)
+[View Repository →](https://github.com/liyan-nk/Library-System)
 
 </td>
 </tr>
@@ -171,97 +96,81 @@ A role-based library management system for cataloging, indexing, and resource ma
 
 ---
 
-## `04 // WAYNE R&D`
+## The Tech I Work With
 
-```yaml
-BATCOMPUTER:
-  operator: LNK-01
+<div align="center">
 
-  engineering:
-    languages:
-      - TypeScript
-      - JavaScript
-      - Python
-      - Java
-      - C
+### Languages
 
-    frontend:
-      - React
-      - Next.js
-      - Tailwind CSS
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c" />
 
-    backend:
-      - FastAPI
-      - NestJS
-      - Flask
-      - Spring Boot
+### Frontend
 
-    databases:
-      - PostgreSQL
-      - Supabase
-      - SQLite
-      - MongoDB
-      - Firebase
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-    infrastructure:
-      - Linux
-      - Docker
-      - Git
-      - Node.js
-      - Nginx
-      - Vercel
+### Backend & Databases
 
-  operating_principle: "BUILD > TALK"
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nestjs,flask,postgres,supabase,sqlite,mongodb,firebase" />
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,nodejs,nginx,vercel" />
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=liyan-nk&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E5B83D&text_color=C5C5C5&icon_color=E5B83D&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&hide_border=true&background=0A0A0A&stroke=252525&ring=E5B83D&fire=E5B83D&currStreakNum=FFFFFF&sideNums=C5C5C5&currStreakLabel=E5B83D&sideLabels=999999&dates=777777" alt="GitHub Streak" />
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyan-nk&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E5B83D&text_color=C5C5C5" alt="Top Languages" />
+
+</div>
+
+---
+
+## Currently
+
+```text
+→ Building products that solve actual problems
+→ Exploring better ways to engineer software
+→ Learning by shipping, not just watching tutorials
+→ Trying to make the next project better than the last
 ```
 
 ---
 
-## `05 // MISSION LOG`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-IDEATE-171717?style=flat-square&labelColor=080808" />
-<img src="https://img.shields.io/badge/02-ENGINEER-171717?style=flat-square&labelColor=080808" />
-<img src="https://img.shields.io/badge/03-DEPLOY-E5B83D?style=flat-square&labelColor=080808" />
-
-</div>
-
-Every repository is a mission. Every commit is a step forward.
-
-I enjoy experimenting with new technologies, building projects from scratch, and pushing ideas beyond the prototype stage.
-
-The objective isn't to maintain a perfect heatmap.
-
-**It's to build something worth opening the terminal for.**
-
----
-
-## `06 // SECURE TRANSMISSION`
+## Let's Connect
 
 <div align="center">
 
 <a href="mailto:lnkatbusiness@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ESTABLISH%20CONNECTION-E5B83D?style=for-the-badge&logo=gmail&logoColor=E5B83D&labelColor=080808" />
+  <img src="https://img.shields.io/badge/EMAIL-E5B83D?style=for-the-badge&logo=gmail&logoColor=E5B83D&labelColor=0A0A0A" />
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/liyan-nechikaden">
-<img src="https://img.shields.io/badge/LINKEDIN-OPEN%20CHANNEL-E5B83D?style=for-the-badge&logo=linkedin&logoColor=E5B83D&labelColor=080808" />
+  <img src="https://img.shields.io/badge/LINKEDIN-E5B83D?style=for-the-badge&logo=linkedin&logoColor=E5B83D&labelColor=0A0A0A" />
 </a>
-
+&nbsp;
 <a href="https://instagram.com/liyan_nk_">
-<img src="https://img.shields.io/badge/INSTAGRAM-FIELD%20LOGS-E5B83D?style=for-the-badge&logo=instagram&logoColor=E5B83D&labelColor=080808" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E5B83D?style=for-the-badge&logo=instagram&logoColor=E5B83D&labelColor=0A0A0A" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=600&height=30&lines=GOTHAM+NEVER+SLEEPS.;NEITHER+DOES+THE+TERMINAL.;END+OF+TRANSMISSION+%2F%2F+LNK-01" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E5B83D&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by.;Have+a+great+build.;See+you+in+the+next+commit." alt="Closing message" />
 
 <br>
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=footer" width="100%" />
 
-<sub>BATCOMPUTER INTERFACE // ENGINEERED BY LNK</sub>
-
-<sub>NOT ALL HEROES WEAR CAPES. SOME DEBUG IN PRODUCTION.</sub>
+<sub>DESIGNED IN THE DARK · BUILT WITH CURIOSITY</sub>
 
 </div>
