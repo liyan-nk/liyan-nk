@@ -1,9 +1,11 @@
-name: Generate Contribution Snake
+name: Generate Contribution Art
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -16,15 +18,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Animated Contribution Art
+        uses: leereilly/contribution-graph-art@v1
         with:
           github_user_name: liyan-nk
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          animation_mode: tetromino
+          tetromino_count: "5"
+          palette: github-dark
+          animation_duration: "8"
+          output_path: dist/contribution-graph.svg
 
-      - name: Publish Snake
+      - name: Publish to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
