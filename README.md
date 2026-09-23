@@ -118,9 +118,7 @@ A role-based library management application for organizing books, managing resou
 
 </div>
 
----
-
-## GitHub Activity
+--
 
 ## GitHub Activity
 
