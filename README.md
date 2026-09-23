@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/liyan-nk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Developer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Engineer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
 </a>
 
 <br>
 
-**Full-Stack Developer · Kerala, India**
+**Full-Stack Engineer · Kerala, India**
 
 I turn ideas into software. Sometimes the idea changes halfway through.
 The code still ships.
@@ -19,11 +19,11 @@ The code still ships.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Dark mode GitHub contribution snake" />
+[GitHub](https://github.com/liyan-nk) ·
+[LinkedIn](https://linkedin.com/in/liyan-nechikaden) ·
+[Instagram](https://instagram.com/liyan_nk_)
 
 <br>
-
-[GitHub](https://github.com/liyan-nk) · [LinkedIn](https://linkedin.com/in/liyan-nechikaden) · [Instagram](https://instagram.com/liyan_nk_)
 
 </div>
 
@@ -49,7 +49,7 @@ Currently interested in product engineering, thoughtful UI/UX, and building soft
 
 ### Campus Echo
 
-A campus feedback platform designed to bridge students and administration through anonymous dialogue.
+An anonymous campus feedback platform designed to bridge students and administration through open dialogue.
 
 `Next.js` `TypeScript` `PostgreSQL`
 
@@ -68,6 +68,7 @@ A goal and habit tracking application focused on consistency, progress, and buil
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -120,16 +121,41 @@ A role-based library management application for organizing books, managing resou
 
 ---
 
-## GitHub Activity
+## Contribution in Motion
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&theme=dark&hide_border=true&background=0A0A0A&ring=E5B83D&fire=E5B83D&currStreakLabel=E5B83D" width="80%" />
+<img
+  src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/contribution-graph.svg"
+  width="100%"
+  alt="Animated GitHub contribution graph"
+/>
 
-<br><br>
+<sub>A little progress, every day.</sub>
 
-<a href="https://github.com/liyan-nk?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-E5B83D?style=for-the-badge&labelColor=0A0A0A" />
+</div>
+
+---
+
+## The Workshop
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LIVE%20FROM-GITHUB-E5B83D?style=flat-square&labelColor=0A0A0A" />
+
+<br>
+
+<sub>Recent commits, releases, pull requests, and other public activity.</sub>
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+<a href="https://github.com/liyan-nk?tab=activity">
+  <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-E5B83D?style=for-the-badge&labelColor=0A0A0A" />
 </a>
 
 </div>
@@ -169,6 +195,6 @@ A role-based library management application for organizing books, managing resou
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=footer" width="100%" />
+<sub>DESIGNED IN THE DARK · BUILT WITH CURIOSITY</sub>
 
 </div>
