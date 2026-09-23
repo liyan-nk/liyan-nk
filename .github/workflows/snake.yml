@@ -1,4 +1,4 @@
-name: Generate Contribution Art
+name: Generate Contribution Gallery
 
 on:
   schedule:
@@ -18,21 +18,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Animated Contribution Art
-        uses: leereilly/contribution-graph-art@v1
+      - name: Generate Ambient Contribution Art
+        uses: crosscore/contribution-gallery@v1
         with:
           github_user_name: liyan-nk
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          animation_mode: tetromino
-          tetromino_count: "5"
-          palette: github-dark
-          animation_duration: "8"
-          output_path: dist/contribution-graph.svg
+          outputs: |
+            dist/ambient.svg?mode=ambient
+            dist/ambient-dark.svg?palette=dark&mode=ambient
 
-      - name: Publish to Output Branch
+      - name: Publish Contribution Art
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
