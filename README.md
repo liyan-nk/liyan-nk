@@ -122,18 +122,19 @@ A role-based library management application for organizing books, managing resou
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=liyan-nk&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E5B83D&text_color=C5C5C5&icon_color=E5B83D&include_all_commits=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&hide_border=true&background=0A0A0A&stroke=252525&ring=E5B83D&fire=E5B83D&currStreakNum=FFFFFF&sideNums=C5C5C5&currStreakLabel=E5B83D&sideLabels=999999&dates=777777" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&theme=dark&hide_border=true&background=0A0A0A&ring=E5B83D&fire=E5B83D&currStreakLabel=E5B83D" width="80%" />
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyan-nk&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E5B83D&text_color=C5C5C5" alt="Top Languages" />
+<a href="https://github.com/liyan-nk?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-E5B83D?style=for-the-badge&labelColor=0A0A0A" />
+</a>
 
 </div>
-
 ---
 
 ## Currently
