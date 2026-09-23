@@ -125,18 +125,31 @@ A role-based library management application for organizing books, managing resou
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/contribution-graph.svg"
-  width="100%"
-  alt="Animated GitHub contribution graph"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient-dark.svg"
+  />
 
-<sub>A little progress, every day.</sub>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient-dark.svg"
+    width="100%"
+    alt="Animated GitHub contribution visualization"
+  />
+</picture>
+
+<br>
+
+<sub>Every contribution leaves a trace.</sub>
 
 </div>
 
 ---
-
 ## The Workshop
 
 <div align="center">
