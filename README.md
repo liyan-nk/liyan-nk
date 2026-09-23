@@ -2,7 +2,7 @@
 
 <!-- Gotham Monospaced Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=F3F4F6&center=true&vcenter=true&width=650&height=70&lines=LIYAN+NECHIKADEN;Full+Stack+Developer;A+shipper+confused+daily+on+what+to+ship.;A+builder+confused+daily+on+what+to+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=F3F4F6&center=true&vcenter=true&width=650&height=70&lines=LIYAN+NECHIKADEN;Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 <p align="center">
