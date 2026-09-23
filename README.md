@@ -1,15 +1,125 @@
-# 💫 About Me:
-🚀 I’m currently working on KAIRO, a student-focused PWA, and building projects that solve real problems.<br>🤝 I’m looking to collaborate on open-source projects, web apps, and interesting ideas.<br>🛠️ I’m looking for help with system design, scalable architectures, and becoming a better engineer.<br>🌱 I’m currently learning Java, Spring Boot, React, TypeScript, PostgreSQL, and modern full-stack development.<br>💬 Ask me about building projects, frontend development, Java, college tech projects, or turning ideas into products.<br>⚡ Fun fact: I’d rather build something from scratch than just talk about it.
+<div align="center">
 
+<!-- Gotham Monospaced Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=F3F4F6&center=true&vcenter=true&width=650&height=70&lines=LIYAN+NECHIKADEN;Full+Stack+Developer;A+shipper+confused+daily+on+what+to+ship.;A+builder+confused+daily+on+what+to+build." alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liyan_nk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liyan-nechikaden) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lnkatbusiness@gmail.com) 
+<p align="center">
+  <b>📍 Kerala, India</b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=liyan-nk&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=liyan-nk&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=liyan-nk&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Social Badges (Batman Onyx & Steel Minimalist) -->
+<p align="center">
+  <a href="mailto:lnkatbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lnkatbusiness%40gmail.com-0f111a?style=for-the-badge&logo=gmail&logoColor=F87171&labelColor=090a0f" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/liyan-nechikaden">
+    <img src="https://img.shields.io/badge/LinkedIn-liyan--nechikaden-0f111a?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=090a0f" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/liyan_nk_">
+    <img src="https://img.shields.io/badge/Instagram-@liyan__nk__-0f111a?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=090a0f" alt="Instagram" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+
+</div>
+
+### 🦇 Transmission
+
+```bash
+$ cat << EOF
+> A shipper who is confused daily on what to ship.
+> A builder who is confused daily on what to build.
+> Operating from the shadows in Kerala, architecting resilient web platforms.
+EOF
+```
+
+---
+
+### ⚡ The Utility Belt (Tech Stack)
+
+<div align="center">
+
+#### Core Languages & Runtimes
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0B0E14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-0B0E14?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/Java-0B0E14?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-0B0E14?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+</p>
+
+#### Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0B0E14?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0B0E14?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0B0E14?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FastAPI-0B0E14?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0B0E14?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NestJS-0B0E14?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Vite-0B0E14?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+</p>
+
+#### Databases & Backend Services
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-0B0E14?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Supabase-0B0E14?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-0B0E14?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-0B0E14?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-0B0E14?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</p>
+
+#### Infrastructure & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0B0E14?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-0B0E14?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Nginx-0B0E14?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-0B0E14?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenCV-0B0E14?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+</p>
+
+</div>
+
+---
+
+### 🛡️ Featured Deployments
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Campus-Echo](https://github.com/liyan-nk/Campus-Echo)** | Anonymous student–administration campus dialogue & grievance engine. | `TypeScript` `Next.js` `PostgreSQL` | 🟢 Active |
+| **[skill-forge](https://github.com/liyan-nk/skill-forge)** | Focused skill development dashboard with streak & habit analytics. | `TypeScript` `React` `Tailwind` | 🟢 Active |
+| **[Library-System](https://github.com/liyan-nk/Library-System)** | Role-based catalog and resource administration engine. | `HTML/CSS` `Flask` `Python` | 📦 Deployed |
+| **[Ink-OS](https://github.com/liyan-nk/Ink-OS)** | Experimental browser desktop environment and systems prototype. | `TypeScript` `Modern Web` | 🧪 Research |
+
+---
+
+### 📊 Tactical Metrics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=liyan-nk&show_icons=true&theme=tokyonight&bg_color=0B0E14&title_color=E5A93C&text_color=9CA3AF&icon_color=E5A93C&border_color=1F242D&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyan-nk&theme=tokyonight&background=0B0E14&stroke=1F242D&ring=E5A93C&fire=E5A93C&currStreakNum=F3F4F6&sideNums=9CA3AF&currStreakLabel=E5A93C&sideLabels=9CA3AF&dates=64748B" width="48%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyan-nk&layout=compact&theme=tokyonight&bg_color=0B0E14&title_color=E5A93C&text_color=9CA3AF&border_color=1F242D&hide_border=false" width="48%" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📡 Encrypted Frequencies
+
+Reach out directly for collaborations, experiments, or architecture talks:
+
+* **Signal:** `lnkatbusiness@gmail.com`
+* **Network:** [linkedin.com/in/liyan-nechikaden](https://linkedin.com/in/liyan-nechikaden)
+* **Social:** [@liyan_nk_](https://instagram.com/liyan_nk_)
+
+<div align="center">
+  <sub>Engineered by Liyan Nechikaden • Built for the Night Shift</sub>
+</div>
