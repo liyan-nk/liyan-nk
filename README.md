@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/liyan-nk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Engineer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Developer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
 </a>
 
 <br>
 
-**Full-Stack Engineer · Kerala, India**
+**Full-Stack Developer · Kerala, India**
 
 I turn ideas into software. Sometimes the idea changes halfway through.
 The code still ships.
