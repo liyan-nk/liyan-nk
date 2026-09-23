@@ -149,8 +149,8 @@ A role-based library management application for organizing books, managing resou
 
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <div align="center">
 
