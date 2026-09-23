@@ -171,6 +171,4 @@ A role-based library management application for organizing books, managing resou
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=footer" width="100%" />
 
-<sub>DESIGNED IN THE DARK · BUILT WITH CURIOSITY</sub>
-
 </div>
