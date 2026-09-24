@@ -1,7 +1,8 @@
 <div align="center">
 
 <a href="https://github.com/liyan-nk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+N%5B...%5D" alt="Liyan N" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+N[...]
+" alt="Liyan N" />
 </a>
 
 <br>
@@ -115,7 +116,7 @@ A role-based library management application for organizing books, managing resou
 
 ### Tools & Infrastructure
 
-<img src="https://img.shields.io/badge/Tools%20%26%20Infrastructure-linux%2Cdocker%2Cgit%2Cnodejs%2Cnginx%2Cvercel-222222?style=flat-square&labelColor=0A0A0A" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,nodejs,nginx,vercel" />
 
 </div>
 
@@ -128,24 +129,24 @@ A role-based library management application for organizing books, managing resou
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-night-view.svg"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-green.svg"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-night-view.svg"
+    src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/github-contribution-grid-snake-dark.svg"
     width="100%"
-    alt="Animated GitHub contribution visualization"
+    alt="Animated GitHub contribution snake"
   />
 </picture>
 
 <br>
 
-<sub>Every contribution leaves a trace.</sub>
+<sub>Consistent progress, built one contribution at a time.</sub>
 
 </div>
 
@@ -158,13 +159,21 @@ A role-based library management application for organizing books, managing resou
 
 <br>
 
-<sub>Recent commits, releases, pull requests, and other public activity.</sub>
+<sub>Recent public activity and project momentum.</sub>
 
 </div>
 
+<!--ACTIVITY_STATUS:start-->
+<sub><span style="color:#E5B83D;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:00 UTC</sub>
+<!--ACTIVITY_STATUS:end-->
+
+<div align="left">
+
 <!--RECENT_ACTIVITY:start-->
-→ ⬆️ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 2h ago<br>
 <!--RECENT_ACTIVITY:end-->
+
+</div>
 
 <div align="center">
 
