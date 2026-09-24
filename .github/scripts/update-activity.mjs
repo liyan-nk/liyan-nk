@@ -1,4 +1,4 @@
-const fs = await import('node:fs/promises');
+import fs from 'node:fs/promises';
 
 const username = process.env.GITHUB_USERNAME || 'liyan-nk';
 const fixturePath = process.env.ACTIVITY_FIXTURE;
@@ -11,13 +11,13 @@ const asNonNegativeInteger = (value) => Number.isInteger(value) && value >= 0 ? 
 
 function repositoryFor(event) {
   const name = asString(event?.repo?.name);
-  return /^[^/\\s]+\\/[^/\\s]+$/.test(name)
+  return /^[^\/\s]+\/[^\/\s]+$/.test(name)
     ? { name, url: `https://github.com/${name}` }
     : null;
 }
 
 function markdownText(value) {
-  return asString(value).replace(/[\\[\\]`*_]/g, '\\$&');
+  return asString(value).replace(/[\[\]`*_]/g, '\\$&');
 }
 
 function relativeTime(value) {
@@ -37,37 +37,66 @@ function relativeTime(value) {
 }
 
 function describe(event, repository) {
-  const payload = isObject(event?.payload) ? event.payload : {};
-  const repo = `[${repository.name}](${repository.url})`;
+  if (!isObject(event)) return null;
+  const payload = isObject(event.payload) ? event.payload : {};
+  const repoName = markdownText(repository.name);
+  const repo = `[${repoName}](${repository.url})`;
 
-  switch (asString(event?.type)) {
+  switch (asString(event.type)) {
     case 'PushEvent': {
       const count = asNonNegativeInteger(payload.distinct_size)
         ?? asNonNegativeInteger(payload.size)
         ?? (Array.isArray(payload.commits) ? payload.commits.length : null);
-      return count > 0
+      return count !== null && count > 0
         ? `Pushed ${count} commit${count === 1 ? '' : 's'} to ${repo}`
         : `Pushed updates to ${repo}`;
     }
     case 'PullRequestEvent': {
       const action = asString(payload.action);
-      if (!['opened', 'closed', 'reopened', 'merged'].includes(action)) return null;
-      const noun = action === 'merged' ? 'Merged a pull request' : `${action[0].toUpperCase()}${action.slice(1)} a pull request`;
-      return `${noun} in ${repo}`;
+      const isMerged = action === 'closed' && payload.pull_request?.merged === true;
+      if (isMerged) {
+        return `Merged a pull request in ${repo}`;
+      }
+      if (['opened', 'closed', 'reopened'].includes(action)) {
+        const noun = `${action[0].toUpperCase()}${action.slice(1)} a pull request`;
+        return `${noun} in ${repo}`;
+      }
+      return null;
     }
     case 'IssuesEvent': {
       const action = asString(payload.action);
       if (!['opened', 'closed', 'reopened'].includes(action)) return null;
       return `${action[0].toUpperCase()}${action.slice(1)} an issue in ${repo}`;
     }
-    case 'ReleaseEvent':
-      return payload.action === 'published' ? `Published a release in ${repo}` : null;
-    case 'CreateEvent':
-      return payload.ref_type === 'repository' ? `Created repository ${repo}` : null;
-    case 'ForkEvent':
+    case 'ReleaseEvent': {
+      const action = asString(payload.action);
+      if (action === 'published') {
+        const tag = asString(payload.release?.tag_name || payload.release?.name);
+        return tag ? `Published release \`${markdownText(tag)}\` in ${repo}` : `Published a release in ${repo}`;
+      }
+      return null;
+    }
+    case 'CreateEvent': {
+      const refType = asString(payload.ref_type);
+      if (refType === 'repository') {
+        return `Created repository ${repo}`;
+      }
+      if (refType === 'branch' || refType === 'tag') {
+        const ref = asString(payload.ref);
+        return ref ? `Created ${refType} \`${markdownText(ref)}\` in ${repo}` : `Created a ${refType} in ${repo}`;
+      }
+      return null;
+    }
+    case 'ForkEvent': {
       return `Forked ${repo}`;
-    case 'WatchEvent':
-      return payload.action === 'started' ? `Starred ${repo}` : null;
+    }
+    case 'WatchEvent': {
+      const action = asString(payload.action);
+      if (action === 'started' || !action) {
+        return `Starred ${repo}`;
+      }
+      return null;
+    }
     default:
       return null;
   }
@@ -75,8 +104,13 @@ function describe(event, repository) {
 
 async function loadEvents() {
   if (fixturePath) {
-    const fixture = JSON.parse(await fs.readFile(fixturePath, 'utf8'));
-    return Array.isArray(fixture) ? fixture : [];
+    try {
+      const fixture = JSON.parse(await fs.readFile(fixturePath, 'utf8'));
+      return Array.isArray(fixture) ? fixture : [];
+    } catch (error) {
+      console.warn(`Unable to read fixture file: ${error.message}`);
+      return [];
+    }
   }
 
   try {
@@ -98,6 +132,7 @@ async function loadEvents() {
 }
 
 function renderActivity(events) {
+  if (!Array.isArray(events)) return '→ No recent public activity found.<br>';
   const seen = new Set();
   const lines = [];
 
@@ -123,9 +158,30 @@ function renderActivity(events) {
 
 const readmePath = process.env.README_PATH || 'README.md';
 const readme = await fs.readFile(readmePath, 'utf8');
-const marker = /<!--RECENT_ACTIVITY:start-->[\\s\\S]*?<!--RECENT_ACTIVITY:end-->/;
+const marker = /<!--RECENT_ACTIVITY:start-->[\s\S]*?<!--RECENT_ACTIVITY:end-->/;
 if (!marker.test(readme)) throw new Error('Activity markers were not found in README.md');
 
-const replacement = `<!--RECENT_ACTIVITY:start-->\n${renderActivity(await loadEvents())}\n<!--RECENT_ACTIVITY:end-->`;
-const updated = readme.replace(marker, replacement);
-if (updated !== readme) await fs.writeFile(readmePath, updated);
+const events = await loadEvents();
+const activityOutput = renderActivity(events);
+const replacement = `<!--RECENT_ACTIVITY:start-->\n${activityOutput}\n<!--RECENT_ACTIVITY:end-->`;
+
+let updated = readme.replace(marker, replacement);
+
+const statusMarker = /<!--ACTIVITY_STATUS:start-->[\s\S]*?<!--ACTIVITY_STATUS:end-->/;
+if (statusMarker.test(updated)) {
+  const existingActivityMatch = readme.match(marker);
+  if (existingActivityMatch && existingActivityMatch[0] !== replacement) {
+    const now = new Date();
+    const dateStr = now.toISOString().slice(0, 10);
+    const timeStr = now.toISOString().slice(11, 16);
+    const statusReplacement = `<!--ACTIVITY_STATUS:start-->\n<sub><span style="color:#E5B83D;">●</span> SYNCED WITH GITHUB · ${dateStr} ${timeStr} UTC</sub>\n<!--ACTIVITY_STATUS:end-->`;
+    updated = updated.replace(statusMarker, statusReplacement);
+  }
+}
+
+if (updated !== readme) {
+  await fs.writeFile(readmePath, updated);
+  console.log('README.md successfully updated with recent activity.');
+} else {
+  console.log('No activity changes detected. README.md left unchanged.');
+}
