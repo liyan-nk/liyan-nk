@@ -18,7 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING-222222?style=flat-square&labelColor=0A0A0A" alt="Status Badge" />
 
-<br><br>
+<br>
 
 </div>
 
@@ -106,7 +106,7 @@ A role-based management application for organizing books, tracking borrowings, a
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,react,nextjs,tailwind,html,css,express,fastapi,flask,postgres,supabase,mongodb,linux,docker,git,nginx,vercel&perline=11" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,react,nextjs,tailwind,html,css,express,fastapi,flask,postgres,supabase,mongodb,linux,docker,git,nginx,vercel&perline=11" height="38" alt="Tech Stack Icons" />
 
 </div>
 
@@ -145,17 +145,15 @@ A role-based management application for organizing books, tracking borrowings, a
 <br>
 
 <!--ACTIVITY_STATUS:start-->
-<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:58 UTC</sub>
+<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-09-24 15:10 UTC</sub>
 <!--ACTIVITY_STATUS:end-->
 
 <div align="left">
 
 <!--RECENT_ACTIVITY:start-->
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 13m ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 25m ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1h ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
+→ Pushed updates to [liyan-nk/campus-timetable-hud](https://github.com/liyan-nk/campus-timetable-hud) · 10d ago<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
@@ -189,9 +187,5 @@ A role-based management application for organizing books, tracking borrowings, a
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
-
-<br>
-
-<sub>LESS TALKING ABOUT THE BUILD · MORE BUILDING</sub>
 
 </div>

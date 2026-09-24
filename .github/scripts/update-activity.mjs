@@ -3,7 +3,6 @@ import fs from 'node:fs/promises';
 const username = process.env.GITHUB_USERNAME || 'liyan-nk';
 const fixturePath = process.env.ACTIVITY_FIXTURE;
 const endpoint = `https://api.github.com/users/${encodeURIComponent(username)}/events/public?per_page=100`;
-const maxEntries = 5;
 
 const isObject = (value) => value !== null && typeof value === 'object' && !Array.isArray(value);
 const asString = (value) => typeof value === 'string' ? value.trim() : '';
@@ -47,6 +46,19 @@ function describe(event, repository) {
       const count = asNonNegativeInteger(payload.distinct_size)
         ?? asNonNegativeInteger(payload.size)
         ?? (Array.isArray(payload.commits) ? payload.commits.length : null);
+
+      const commits = Array.isArray(payload.commits) ? payload.commits : [];
+      const firstMsg = commits.length > 0 && typeof commits[0]?.message === 'string'
+        ? commits[0].message.split('\n')[0].trim()
+        : null;
+
+      if (firstMsg) {
+        const cleanMsg = markdownText(firstMsg.length > 45 ? firstMsg.slice(0, 42) + '...' : firstMsg);
+        return count && count > 1
+          ? `Pushed ${count} commits to ${repo} (\`${cleanMsg}\`)`
+          : `Pushed to ${repo} (\`${cleanMsg}\`)`;
+      }
+
       return count !== null && count > 0
         ? `Pushed ${count} commit${count === 1 ? '' : 's'} to ${repo}`
         : `Pushed updates to ${repo}`;
@@ -55,10 +67,10 @@ function describe(event, repository) {
       const action = asString(payload.action);
       const isMerged = action === 'closed' && payload.pull_request?.merged === true;
       if (isMerged) {
-        return `Merged a pull request in ${repo}`;
+        return `Merged pull request in ${repo}`;
       }
       if (['opened', 'closed', 'reopened'].includes(action)) {
-        const noun = `${action[0].toUpperCase()}${action.slice(1)} a pull request`;
+        const noun = `${action[0].toUpperCase()}${action.slice(1)} pull request`;
         return `${noun} in ${repo}`;
       }
       return null;
@@ -66,13 +78,13 @@ function describe(event, repository) {
     case 'IssuesEvent': {
       const action = asString(payload.action);
       if (!['opened', 'closed', 'reopened'].includes(action)) return null;
-      return `${action[0].toUpperCase()}${action.slice(1)} an issue in ${repo}`;
+      return `${action[0].toUpperCase()}${action.slice(1)} issue in ${repo}`;
     }
     case 'ReleaseEvent': {
       const action = asString(payload.action);
       if (action === 'published') {
         const tag = asString(payload.release?.tag_name || payload.release?.name);
-        return tag ? `Published release \`${markdownText(tag)}\` in ${repo}` : `Published a release in ${repo}`;
+        return tag ? `Published release \`${markdownText(tag)}\` in ${repo}` : `Published release in ${repo}`;
       }
       return null;
     }
@@ -83,7 +95,7 @@ function describe(event, repository) {
       }
       if (refType === 'branch' || refType === 'tag') {
         const ref = asString(payload.ref);
-        return ref ? `Created ${refType} \`${markdownText(ref)}\` in ${repo}` : `Created a ${refType} in ${repo}`;
+        return ref ? `Created ${refType} \`${markdownText(ref)}\` in ${repo}` : `Created ${refType} in ${repo}`;
       }
       return null;
     }
@@ -133,21 +145,34 @@ async function loadEvents() {
 
 function renderActivity(events) {
   if (!Array.isArray(events)) return '→ No recent public activity found.<br>';
-  const seen = new Set();
+  const seenKeys = new Set();
+  const repoCount = new Map();
   const lines = [];
+
+  const maxEntries = 3;
 
   for (const event of events) {
     if (!isObject(event)) continue;
     const eventId = asString(event.id);
     const fallbackKey = `${asString(event.type)}|${asString(event.created_at)}|${asString(event.repo?.name)}`;
     const key = eventId || fallbackKey;
-    if (!key || seen.has(key)) continue;
-    seen.add(key);
+    if (!key || seenKeys.has(key)) continue;
+    seenKeys.add(key);
 
     const repository = repositoryFor(event);
     if (!repository) continue;
+
+    // Limit repetitive padding for the same repo if multiple events exist
+    const currentCount = repoCount.get(repository.name) || 0;
+    if (currentCount >= 2 && events.length > maxEntries) {
+      continue;
+    }
+
     const description = describe(event, repository);
     if (!description) continue;
+
+    repoCount.set(repository.name, currentCount + 1);
+
     const age = relativeTime(event.created_at);
     lines.push(`→ ${description}${age ? ` · ${age}` : ''}<br>`);
     if (lines.length === maxEntries) break;
