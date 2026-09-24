@@ -4,11 +4,11 @@
 
 <br>
 
-**Full Stack Developer · Product Engineer · Kerala, India**
+**Full Stack Developer · Kerala, India**
 
 <br>
 
-> *Building end-to-end software products with a focus on thoughtful design, clean architecture, and real-world utility.*
+> *I turn ideas into software. Sometimes the scope changes halfway through. The code still ships.*
 
 <br>
 
@@ -16,7 +16,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-KERALA%2C%20INDIA-222222?style=flat-square&labelColor=0A0A0A" alt="Location Badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-SHIPPING%20PRODUCTS-222222?style=flat-square&labelColor=0A0A0A" alt="Status Badge" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-222222?style=flat-square&labelColor=0A0A0A" alt="Status Badge" />
 
 <br><br>
 
@@ -26,11 +26,11 @@
 
 ### `01 / ABOUT`
 
-I am a Full Stack Developer and engineering student passionate about building complete, user-centered applications from concept to deployment. I bridge the gap between scalable backend systems and intuitive frontend user experiences.
+I am a developer and engineering student who enjoys taking ideas from a blank screen to something people can actually use. I work across the stack, experiment with new technologies, and occasionally spend an unreasonable amount of time fixing 2-pixel alignment issues.
 
-- **Product Engineering**: Turning concepts into functional, production-ready software.
-- **System Architecture**: Designing clean database schemas and robust API endpoints.
-- **UI/UX Craftsmanship**: Paying meticulous attention to visual detail, interaction, and responsiveness.
+- **Full Stack Engineering**: Building clean frontend interfaces and reliable backend systems.
+- **Product Mindset**: Focus on shipping functional tools that solve actual problems.
+- **Pragmatic Craft**: Caring about good UI, system performance, and readable code.
 
 ---
 
@@ -41,25 +41,25 @@ I am a Full Stack Developer and engineering student passionate about building co
 <td width="50%" valign="top">
 
 #### 🚀 [Campus Echo](https://github.com/liyan-nk/Campus-Echo)
-*Anonymous Campus Feedback & Administrative Platform*
+*Anonymous Campus Feedback Platform*
 
-An open dialogue platform designed to bridge communication between students and university administration safely and transparently.
+An open dialogue platform designed for students to share feedback and communicate with university administration safely.
 
 `Next.js` `TypeScript` `PostgreSQL` `Tailwind`
 
-[**Explore Repository →**](https://github.com/liyan-nk/Campus-Echo)
+[**View Repository →**](https://github.com/liyan-nk/Campus-Echo)
 
 </td>
 <td width="50%" valign="top">
 
 #### ⚙️ [Skill Forge](https://github.com/liyan-nk/skill-forge)
-*Goal Tracking & Habit Consistency Engine*
+*Goal & Habit Tracker*
 
-A goal and habit tracking system built to cultivate long-term routine building, analytics, and personal productivity.
+A habit and routine tracking tool built around consistency and progress metrics.
 
 `React` `TypeScript` `Tailwind CSS`
 
-[**Explore Repository →**](https://github.com/liyan-nk/skill-forge)
+[**View Repository →**](https://github.com/liyan-nk/skill-forge)
 
 </td>
 </tr>
@@ -67,25 +67,25 @@ A goal and habit tracking system built to cultivate long-term routine building, 
 <td width="50%" valign="top">
 
 #### 🖥️ [Ink-OS](https://github.com/liyan-nk/Ink-OS)
-*Web-Based Experimental Operating System*
+*Experimental Web Operating System*
 
-An interactive browser-based desktop environment exploring virtualized window management and web-native desktop interactions.
+An interactive browser-based desktop environment exploring window management and web-native desktop interfaces.
 
 `TypeScript` `HTML5 Canvas` `Web APIs`
 
-[**Explore Repository →**](https://github.com/liyan-nk/Ink-OS)
+[**View Repository →**](https://github.com/liyan-nk/Ink-OS)
 
 </td>
 <td width="50%" valign="top">
 
 #### 📚 [Library System](https://github.com/liyan-nk/Library-System)
-*Role-Based Resource & Catalog Management*
+*Role-Based Resource Manager*
 
-A multi-role administrative system for cataloging resources, tracking borrower transactions, and managing library workflows.
+A role-based management application for organizing books, tracking borrowings, and managing library operations.
 
 `Python` `Flask` `SQLite` `HTML/CSS`
 
-[**Explore Repository →**](https://github.com/liyan-nk/Library-System)
+[**View Repository →**](https://github.com/liyan-nk/Library-System)
 
 </td>
 </tr>
@@ -97,12 +97,12 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 
 <div align="center">
 
-| Domain | Primary Technologies & Tools |
+| Category | Tools I Use (And Occasionally Blame) |
 | :--- | :--- |
 | **Languages** | `TypeScript` `JavaScript` `Python` `Java` `C` |
 | **Frontend** | `React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` |
 | **Backend & Databases** | `Node.js` `Express` `FastAPI` `Flask` `Spring Boot` `PostgreSQL` `Supabase` `MongoDB` |
-| **Tools & Infrastructure** | `Linux` `Docker` `Git` `Nginx` `Vercel` `VS Code` |
+| **Tools & Infra** | `Linux` `Docker` `Git` `Nginx` `Vercel` `VS Code` |
 
 <br>
 
@@ -112,7 +112,7 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 
 ---
 
-### `04 / LIVE OPERATIONS`
+### `04 / RECENT ACTIVITY`
 
 <div align="center">
 
@@ -136,7 +136,7 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 
 <br>
 
-<sub>*Consistent execution, tracked in real-time across public repositories.*</sub>
+<sub>*Proof that I haven't just been staring at a blank terminal.*</sub>
 
 <br><br>
 
@@ -145,14 +145,14 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 <br>
 
 <!--ACTIVITY_STATUS:start-->
-<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:52 UTC</sub>
+<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:58 UTC</sub>
 <!--ACTIVITY_STATUS:end-->
 
 <div align="left">
 
 <!--RECENT_ACTIVITY:start-->
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 7m ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 57m ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 13m ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1h ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
@@ -170,7 +170,7 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 
 ---
 
-### `05 / CONNECT & EXECUTE`
+### `05 / LET'S CONNECT`
 
 <div align="center">
 
@@ -192,6 +192,6 @@ A multi-role administrative system for cataloging resources, tracking borrower t
 
 <br>
 
-<sub>DESIGNED WITH INTENTION · SHIPPED WITH PRECISION</sub>
+<sub>LESS TALKING ABOUT THE BUILD · MORE BUILDING</sub>
 
 </div>
