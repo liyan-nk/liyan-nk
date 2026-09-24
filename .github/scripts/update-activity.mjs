@@ -174,7 +174,7 @@ if (statusMarker.test(updated)) {
     const now = new Date();
     const dateStr = now.toISOString().slice(0, 10);
     const timeStr = now.toISOString().slice(11, 16);
-    const statusReplacement = `<!--ACTIVITY_STATUS:start-->\n<sub><span style="color:#E5B83D;">●</span> SYNCED WITH GITHUB · ${dateStr} ${timeStr} UTC</sub>\n<!--ACTIVITY_STATUS:end-->`;
+    const statusReplacement = `<!--ACTIVITY_STATUS:start-->\n<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · ${dateStr} ${timeStr} UTC</sub>\n<!--ACTIVITY_STATUS:end-->`;
     updated = updated.replace(statusMarker, statusReplacement);
   }
 }

@@ -1,20 +1,17 @@
 <div align="center">
 
-<a href="https://github.com/liyan-nk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+N[...]
-" alt="Liyan N" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden" alt="Liyan Nechikaden" />
 
 <br>
 
-**Full-Stack Engineer · Kerala, India**
+**Full Stack Developer · Kerala, India**
 
 I turn ideas into software. Sometimes the idea changes halfway through.
 The code still ships.
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-E5B83D?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-E53935?style=flat-square&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/BASED_IN-KERALA%2C%20INDIA-222222?style=flat-square&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/STATUS-BUILDING-222222?style=flat-square&labelColor=0A0A0A" />
 
@@ -155,7 +152,7 @@ A role-based library management application for organizing books, managing resou
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LIVE%20FROM-GITHUB-E5B83D?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/LIVE%20FROM-GITHUB-E53935?style=flat-square&labelColor=0A0A0A" />
 
 <br>
 
@@ -164,15 +161,15 @@ A role-based library management application for organizing books, managing resou
 </div>
 
 <!--ACTIVITY_STATUS:start-->
-<sub><span style="color:#E5B83D;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:25 UTC</sub>
+<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-09-24 14:41 UTC</sub>
 <!--ACTIVITY_STATUS:end-->
 
 <div align="left">
 
 <!--RECENT_ACTIVITY:start-->
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 30m ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 23h ago<br>
-→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 23h ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 46m ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
+→ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
 → Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk) · 1d ago<br>
 <!--RECENT_ACTIVITY:end-->
@@ -182,7 +179,7 @@ A role-based library management application for organizing books, managing resou
 <div align="center">
 
 <a href="https://github.com/liyan-nk?tab=activity">
-  <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-E5B83D?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-E53935?style=for-the-badge&labelColor=0A0A0A" />
 </a>
 
 </div>
@@ -205,20 +202,20 @@ A role-based library management application for organizing books, managing resou
 <div align="center">
 
 <a href="mailto:lnkatbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-E5B83D?style=for-the-badge&logo=gmail&logoColor=E5B83D&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/EMAIL-E53935?style=for-the-badge&logo=gmail&logoColor=E53935&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/liyan-nechikaden">
-  <img src="https://img.shields.io/badge/LINKEDIN-E5B83D?style=for-the-badge&logo=linkedin&logoColor=E5B83D&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/LINKEDIN-E53935?style=for-the-badge&logo=linkedin&logoColor=E53935&labelColor=0A0A0A" />
 </a>
 &nbsp;
 <a href="https://instagram.com/liyan_nk_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E5B83D?style=for-the-badge&logo=instagram&logoColor=E5B83D&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E53935?style=for-the-badge&logo=instagram&logoColor=E53935&labelColor=0A0A0A" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E5B83D&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E53935&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
 
 <br>
 
