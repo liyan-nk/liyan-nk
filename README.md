@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/liyan-nk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+Nechikaden;Full+Stack+Engineer;Building+things.+Breaking+things.+Learning." alt="Liyan Nechikaden" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Liyan+N%5B...%5D" alt="Liyan N" />
 </a>
 
 <br>
@@ -115,7 +115,7 @@ A role-based library management application for organizing books, managing resou
 
 ### Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,nodejs,nginx,vercel" />
+<img src="https://img.shields.io/badge/Tools%20%26%20Infrastructure-linux%2Cdocker%2Cgit%2Cnodejs%2Cnginx%2Cvercel-222222?style=flat-square&labelColor=0A0A0A" />
 
 </div>
 
@@ -128,16 +128,16 @@ A role-based library management application for organizing books, managing resou
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient-dark.svg"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-night-view.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient.svg"
+    srcset="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-green.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/output/ambient-dark.svg"
+    src="https://raw.githubusercontent.com/liyan-nk/liyan-nk/master/profile-3d-contrib/profile-night-view.svg"
     width="100%"
     alt="Animated GitHub contribution visualization"
   />
@@ -163,11 +163,7 @@ A role-based library management application for organizing books, managing resou
 </div>
 
 <!--RECENT_ACTIVITY:start-->
-→ ⬆️ Pushed undefined commit(s) to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
-→ ⬆️ Pushed undefined commit(s) to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
-→ ⬆️ Pushed undefined commit(s) to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
-→ ⬆️ Pushed undefined commit(s) to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
-→ ⬆️ Pushed undefined commit(s) to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
+→ ⬆️ Pushed updates to [liyan-nk/liyan-nk](https://github.com/liyan-nk/liyan-nk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
@@ -209,7 +205,7 @@ A role-based library management application for organizing books, managing resou
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E5B83D&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by.;Have+a+great+build.;See+you+in+the+next+commit." alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=E5B83D&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
 
 <br>
 
