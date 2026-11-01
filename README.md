@@ -145,15 +145,15 @@ A role-based management application for organizing books, tracking borrowings, a
 <br>
 
 <!--ACTIVITY_STATUS:start-->
-<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-10-31 03:57 UTC</sub>
+<sub><span style="color:#E53935;">●</span> SYNCED WITH GITHUB · 2026-11-01 04:16 UTC</sub>
 <!--ACTIVITY_STATUS:end-->
 
 <div align="left">
 
 <!--RECENT_ACTIVITY:start-->
-→ Pushed updates to [liyan-nk/java-project](https://github.com/liyan-nk/java-project) · 4d ago<br>
-→ Pushed updates to [liyan-nk/portfolio](https://github.com/liyan-nk/portfolio) · 26d ago<br>
-→ Pushed updates to [liyan-nk/portfolio](https://github.com/liyan-nk/portfolio) · 26d ago<br>
+→ Pushed updates to [liyan-nk/java-project](https://github.com/liyan-nk/java-project) · 5d ago<br>
+→ Pushed updates to [liyan-nk/portfolio](https://github.com/liyan-nk/portfolio) · 27d ago<br>
+→ Pushed updates to [liyan-nk/portfolio](https://github.com/liyan-nk/portfolio) · 27d ago<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
